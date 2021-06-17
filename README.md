@@ -13,3 +13,4 @@ Developer thought it would be cute to paste everything and as such the code is a
 A list of all places the Developer skidded from
 
 HWID - https://github.com/Kqnth/Java-HWID
+Client Base - https://www.youtube.com/watch?v=_cxX43YFGOE
