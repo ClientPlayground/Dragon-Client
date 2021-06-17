@@ -2,7 +2,7 @@
 
 1.8.9 | Version v1
 
-This is a "Next generation" forge mod which the YouTuber who "owns" it claims it has the best FPS Boost you can find (Utter bullshit) 
+This is a "Next generation" forge mod which the YouTuber who "owns" it claims it has the best FPS Boost you can find which is complete bullshit as there is no FPS boost function whatsoever & and the code is completely skidded. Don't purchase cosmetics for this in the future or download it. 
 
 https://www.youtube.com/watch?v=kJS7-jMSTdY
 
