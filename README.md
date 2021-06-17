@@ -1,2 +1,3 @@
 # Dragon-Client
-shit paste for a 300k youtuber (SuchSpeed
+
+1.8.9 | Version v1
