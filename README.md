@@ -10,7 +10,12 @@ Developer thought it would be cute to paste everything and as such the code is a
 
 # "Credits"
 
-A list of all places the Developer skidded from
+A list of all places the Developer skidded from 
 
 HWID - https://github.com/Kqnth/Java-HWID
+
 Client Base - https://www.youtube.com/watch?v=_cxX43YFGOE
+
+Discord Webhook Shit - https://github.com/Swag1400/java-discord-token-logger/blob/master/Main.java (Literally pasted from a RAT)
+
+AND some more!
