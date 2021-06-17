@@ -1,4 +1,4 @@
-# Dragon-Client Remapped by OMA
+# Dragon-Client 
 
 1.8.9 | Version v1
 
@@ -21,5 +21,7 @@ Discord Webhook Shit - https://github.com/Swag1400/java-discord-token-logger/blo
 Notification System - https://github.com/superblaubeere27/NotificationSystem
 
 AND some more!
+
+# Leaked and remapped by OMA
 
 
